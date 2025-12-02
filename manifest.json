@@ -122,7 +122,7 @@
   {
     "display_name": "PrimeMirror",
     "value": "primeMirror",
-    "version": "1.7",
+    "version": "1.8",
     "icon": "",
     "type": "global",
     "disabled": false
@@ -258,7 +258,7 @@
   {
     "display_name": "GuardaHD",
     "value": "guardahd",
-    "version": "1.0",
+    "version": "1.1",
     "icon": "",
     "type": "italy",
     "disabled": false
@@ -394,7 +394,7 @@
   {
     "display_name": "moviesflix",
     "value": "moviesflix",
-    "version": "1.0",
+    "version": "1.1",
     "icon": "",
     "type": "india",
     "disabled": false
@@ -506,6 +506,9 @@
  
   
 ]
+
+
+
 
 
 
